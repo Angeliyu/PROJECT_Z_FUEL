@@ -1,0 +1,30 @@
+Movement sequence - front view
+
+
+front
+1. player_front
+2. player_front_both_hand_up_left_up
+3. player_front_knee_right_up_both_hand_up
+4. player_front_leg_right_up_both_hand_upup 
+5. player_front_knee_right_up_both_hand_up
+6. player_front_both_hand_up_left_up
+7. player_front
+8. player_front_both_hand_up_right_up 
+9. player_front_knee_left_up_both_hand_up 
+10. player_front_leg_left_up_both_hand_upup
+11. player_front_knee_left_up_both_hand_up 
+12. player_front_both_hand_up_right_up 
+
+front_20x30
+1. player_front_20x30
+2. player_front_both_hand_up_left_up_20x30
+3. player_front_knee_right_up_both_hand_up_20x30
+4. player_front_leg_right_up_both_hand_upup _20x30
+5. player_front_knee_right_up_both_hand_up_20x30
+6. player_front_both_hand_up_left_up_20x30
+7. player_front_20x30
+8. player_front_both_hand_up_right_up_20x30
+9. player_front_knee_left_up_both_hand_up_20x30
+10. player_front_leg_left_up_both_hand_upup_20x30
+11. player_front_knee_left_up_both_hand_up_20x30 
+12. player_front_both_hand_up_right_up_20x30
