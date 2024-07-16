@@ -1,0 +1,22 @@
+Movement sequence - front view zombie
+
+front
+1. zombie_stand
+2. zombie_front_hand_to_left
+3. zombie_front_left_leg_and_hands
+4. zombie_front_hand_to_left
+5. zombie_stand
+6. zombie_front_hand_to_right
+7. zombie_front_right_leg_and_hands
+8. zombie_front_hand_to_right
+
+
+front_20x30
+1. zombie_stand_20x30
+2. zombie_front_hand_to_left_20x30
+3. zombie_front_left_leg_and_hands_20x30
+4. zombie_front_hand_to_left_20x30
+5. zombie_stand_20x30
+6. zombie_front_hand_to_right_20x30
+7. zombie_front_right_leg_and_hands_20x30
+8. zombie_front_hand_to_right_20x30
