@@ -1,0 +1,22 @@
+Movement sequence - back view zombie
+
+back
+1. zombie_back
+2. zombie_back_hand_to_left
+3. zombie_back_left_leg_hand_to_left
+4. zombie_back_hand_to_left
+5. zombie_back
+6. zombie_back_hand_to_right
+7. zombie_back_right_leg_hand_to_right
+8. zombie_back_hand_to_right
+
+
+back_20x30
+1. zombie_back_20x30
+2. zombie_back_hand_to_left_20x30
+3. zombie_back_left_leg_hand_to_left_20x30
+4. zombie_back_hand_to_left_20x30
+5. zombie_back_20x30
+6. zombie_back_hand_to_right_20x30
+7. zombie_back_right_leg_hand_to_right_20x30
+8. zombie_back_hand_to_right_20x30
