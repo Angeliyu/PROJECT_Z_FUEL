@@ -1,0 +1,22 @@
+Movement sequence - left view zombie
+
+left
+1. zombie_left
+2. zombie_left_hand_to_left
+3. zombie_left_leg_left_up_hand_to_left
+4. zombie_left_hand_to_left
+5. zombie_left
+6. zombie_left_hand_to_right
+7. zombie_left_leg_right_up_hand_to_right
+8. zombie_left_hand_to_right
+
+left_20x30
+1. zombie_left_20x30
+2. zombie_left_hand_to_left_20x30
+3. zombie_left_leg_left_up_hand_to_left_20x30
+4. zombie_left_hand_to_left_20x30
+5. zombie_left_20x30
+6. zombie_left_hand_to_right_20x30
+7. zombie_left_leg_right_up_hand_to_right_20x30
+8. zombie_left_hand_to_right_20x30
+
