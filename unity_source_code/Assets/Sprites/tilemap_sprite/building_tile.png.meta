@@ -1,0 +1,5489 @@
+fileFormatVersion: 2
+guid: 6c6016a847a3ef74d9b3ca5954169dc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3920108596553155177
+    second: spritesheet-resize_0
+  - first:
+      213: 8272231745206606305
+    second: spritesheet-resize_1
+  - first:
+      213: 7972949498205742706
+    second: spritesheet-resize_2
+  - first:
+      213: -7707433225234533002
+    second: spritesheet-resize_3
+  - first:
+      213: 5497207144217495522
+    second: spritesheet-resize_4
+  - first:
+      213: -3572134265599827862
+    second: spritesheet-resize_5
+  - first:
+      213: -885817051620039382
+    second: spritesheet-resize_6
+  - first:
+      213: 6010620849279380964
+    second: spritesheet-resize_7
+  - first:
+      213: 7466604531671644882
+    second: spritesheet-resize_8
+  - first:
+      213: -7375890711336728081
+    second: spritesheet-resize_9
+  - first:
+      213: 323210360613678819
+    second: spritesheet-resize_10
+  - first:
+      213: -1078041730713075961
+    second: spritesheet-resize_11
+  - first:
+      213: -6757634607719604289
+    second: spritesheet-resize_12
+  - first:
+      213: 7747261845653423090
+    second: spritesheet-resize_13
+  - first:
+      213: 5330829144242054859
+    second: spritesheet-resize_14
+  - first:
+      213: -7949756453658990551
+    second: spritesheet-resize_15
+  - first:
+      213: 2234743924879654988
+    second: spritesheet-resize_16
+  - first:
+      213: 3567111980119918950
+    second: spritesheet-resize_17
+  - first:
+      213: 7647884941490010204
+    second: spritesheet-resize_18
+  - first:
+      213: -5764315798740289639
+    second: spritesheet-resize_19
+  - first:
+      213: 8977200784825003833
+    second: spritesheet-resize_20
+  - first:
+      213: -4663208345864811087
+    second: spritesheet-resize_21
+  - first:
+      213: -6565343591036882362
+    second: spritesheet-resize_22
+  - first:
+      213: 9123327908173876920
+    second: spritesheet-resize_23
+  - first:
+      213: -5481654423288583771
+    second: spritesheet-resize_24
+  - first:
+      213: 6677109934262466451
+    second: spritesheet-resize_25
+  - first:
+      213: 6629994182282885359
+    second: spritesheet-resize_26
+  - first:
+      213: 3911293188102156545
+    second: spritesheet-resize_27
+  - first:
+      213: 2805380313486417816
+    second: spritesheet-resize_28
+  - first:
+      213: 8715958688543514615
+    second: spritesheet-resize_29
+  - first:
+      213: 5352991341203635108
+    second: spritesheet-resize_30
+  - first:
+      213: 8258826882510909493
+    second: spritesheet-resize_31
+  - first:
+      213: 3064394745458431180
+    second: spritesheet-resize_32
+  - first:
+      213: 4548180174568939074
+    second: spritesheet-resize_33
+  - first:
+      213: -2006014067429565047
+    second: spritesheet-resize_34
+  - first:
+      213: 696836046967340369
+    second: spritesheet-resize_35
+  - first:
+      213: 8162169471070251918
+    second: spritesheet-resize_36
+  - first:
+      213: 4980036631469902903
+    second: spritesheet-resize_37
+  - first:
+      213: -5446875783348861459
+    second: spritesheet-resize_38
+  - first:
+      213: -5277676360614103692
+    second: spritesheet-resize_39
+  - first:
+      213: 8355171519289670796
+    second: spritesheet-resize_40
+  - first:
+      213: -2066550450945747247
+    second: spritesheet-resize_41
+  - first:
+      213: 9216169192905603501
+    second: spritesheet-resize_42
+  - first:
+      213: 7776684215728411158
+    second: spritesheet-resize_43
+  - first:
+      213: -3242973340800306111
+    second: spritesheet-resize_44
+  - first:
+      213: -8465398508456121745
+    second: spritesheet-resize_45
+  - first:
+      213: 8894692728645575024
+    second: spritesheet-resize_46
+  - first:
+      213: 3795394695907527572
+    second: spritesheet-resize_47
+  - first:
+      213: 3902721835990582770
+    second: spritesheet-resize_48
+  - first:
+      213: -741897973908144609
+    second: spritesheet-resize_49
+  - first:
+      213: 5790143112530161841
+    second: spritesheet-resize_50
+  - first:
+      213: -4963815638983376014
+    second: spritesheet-resize_51
+  - first:
+      213: -297880504566584877
+    second: spritesheet-resize_52
+  - first:
+      213: 3918143939245259370
+    second: spritesheet-resize_53
+  - first:
+      213: 840663149089852629
+    second: spritesheet-resize_54
+  - first:
+      213: -2971606705883397348
+    second: spritesheet-resize_55
+  - first:
+      213: -2674064535288697594
+    second: spritesheet-resize_56
+  - first:
+      213: 3741363825706029929
+    second: spritesheet-resize_57
+  - first:
+      213: 1697718818642646773
+    second: spritesheet-resize_58
+  - first:
+      213: -145535812726419735
+    second: spritesheet-resize_59
+  - first:
+      213: -1466765331340252936
+    second: spritesheet-resize_60
+  - first:
+      213: 7315050487061438121
+    second: spritesheet-resize_61
+  - first:
+      213: 4095544933410086177
+    second: spritesheet-resize_62
+  - first:
+      213: 2461240468159005729
+    second: spritesheet-resize_63
+  - first:
+      213: 3024676751757437573
+    second: spritesheet-resize_64
+  - first:
+      213: 1770900245132694539
+    second: spritesheet-resize_65
+  - first:
+      213: 6478210273024151829
+    second: spritesheet-resize_66
+  - first:
+      213: -4689374190645905950
+    second: spritesheet-resize_67
+  - first:
+      213: -5294668144395855302
+    second: spritesheet-resize_68
+  - first:
+      213: -2152672994399466932
+    second: spritesheet-resize_69
+  - first:
+      213: 1945256834727978972
+    second: spritesheet-resize_70
+  - first:
+      213: 7815427070287314547
+    second: spritesheet-resize_71
+  - first:
+      213: 5621222005479293502
+    second: spritesheet-resize_72
+  - first:
+      213: -4133715762920297547
+    second: spritesheet-resize_73
+  - first:
+      213: 437124945397399349
+    second: spritesheet-resize_74
+  - first:
+      213: -2793195258983222938
+    second: spritesheet-resize_75
+  - first:
+      213: -3872536141763747829
+    second: spritesheet-resize_76
+  - first:
+      213: 6485086532288804930
+    second: spritesheet-resize_77
+  - first:
+      213: 3674475914171060532
+    second: spritesheet-resize_78
+  - first:
+      213: -86108711384435071
+    second: spritesheet-resize_79
+  - first:
+      213: -2038739666745162430
+    second: spritesheet-resize_80
+  - first:
+      213: -170460434609359176
+    second: spritesheet-resize_81
+  - first:
+      213: 6450951390282281100
+    second: spritesheet-resize_82
+  - first:
+      213: 7829737538645033360
+    second: spritesheet-resize_83
+  - first:
+      213: -2234250931081120339
+    second: spritesheet-resize_84
+  - first:
+      213: -475331891579312034
+    second: spritesheet-resize_85
+  - first:
+      213: -179324832188748617
+    second: spritesheet-resize_86
+  - first:
+      213: -3505087441430965545
+    second: spritesheet-resize_87
+  - first:
+      213: 6384945905266970052
+    second: spritesheet-resize_88
+  - first:
+      213: 2683070260855056433
+    second: spritesheet-resize_89
+  - first:
+      213: -8561526166447969835
+    second: spritesheet-resize_90
+  - first:
+      213: 4239096827321319531
+    second: spritesheet-resize_91
+  - first:
+      213: 8898007985328735232
+    second: spritesheet-resize_92
+  - first:
+      213: 3317560171724254647
+    second: spritesheet-resize_93
+  - first:
+      213: 3750409100525606070
+    second: spritesheet-resize_94
+  - first:
+      213: 5777939453441610754
+    second: spritesheet-resize_95
+  - first:
+      213: -5878029836335867860
+    second: spritesheet-resize_96
+  - first:
+      213: -3635319540700136823
+    second: spritesheet-resize_97
+  - first:
+      213: -6309276057545885585
+    second: spritesheet-resize_98
+  - first:
+      213: -1880340135010304887
+    second: spritesheet-resize_99
+  - first:
+      213: 586284440475800975
+    second: spritesheet-resize_100
+  - first:
+      213: -5541548357690240102
+    second: spritesheet-resize_101
+  - first:
+      213: 5027836646431581672
+    second: spritesheet-resize_102
+  - first:
+      213: -3957197346478709142
+    second: spritesheet-resize_103
+  - first:
+      213: -5428520823518387896
+    second: spritesheet-resize_104
+  - first:
+      213: 6019237008239259166
+    second: spritesheet-resize_105
+  - first:
+      213: -9052052300741598981
+    second: spritesheet-resize_106
+  - first:
+      213: 6933654346186308749
+    second: spritesheet-resize_107
+  - first:
+      213: 7836157467205371004
+    second: spritesheet-resize_108
+  - first:
+      213: 1410814436496018887
+    second: spritesheet-resize_109
+  - first:
+      213: -5431166091790972456
+    second: spritesheet-resize_110
+  - first:
+      213: 2165909388045021188
+    second: spritesheet-resize_111
+  - first:
+      213: -3298353240036636273
+    second: spritesheet-resize_112
+  - first:
+      213: 8729405055591808997
+    second: spritesheet-resize_113
+  - first:
+      213: 7675015601468471227
+    second: spritesheet-resize_114
+  - first:
+      213: 6290732719559250584
+    second: spritesheet-resize_115
+  - first:
+      213: 6582668728407053764
+    second: spritesheet-resize_116
+  - first:
+      213: 9052822888096210317
+    second: spritesheet-resize_117
+  - first:
+      213: -2450351994097351420
+    second: spritesheet-resize_118
+  - first:
+      213: 2415012418387908147
+    second: spritesheet-resize_119
+  - first:
+      213: -5005975261921436930
+    second: spritesheet-resize_120
+  - first:
+      213: -7494053245115033665
+    second: spritesheet-resize_121
+  - first:
+      213: 3092075060020277475
+    second: spritesheet-resize_122
+  - first:
+      213: -647464657680351382
+    second: spritesheet-resize_123
+  - first:
+      213: 973677862081292688
+    second: spritesheet-resize_124
+  - first:
+      213: -4944875939509998719
+    second: spritesheet-resize_125
+  - first:
+      213: -2538611109708459576
+    second: spritesheet-resize_126
+  - first:
+      213: -456020846153051848
+    second: spritesheet-resize_127
+  - first:
+      213: 1008955613223282340
+    second: spritesheet-resize_128
+  - first:
+      213: -101766545761963081
+    second: spritesheet-resize_129
+  - first:
+      213: 1073684900008655603
+    second: spritesheet-resize_130
+  - first:
+      213: 8874282545647955355
+    second: spritesheet-resize_131
+  - first:
+      213: -8544095006045971104
+    second: spritesheet-resize_132
+  - first:
+      213: 5485873690487788250
+    second: spritesheet-resize_133
+  - first:
+      213: -3937521366492869262
+    second: spritesheet-resize_134
+  - first:
+      213: -3990691752580086694
+    second: spritesheet-resize_135
+  - first:
+      213: 5737274933920889461
+    second: spritesheet-resize_136
+  - first:
+      213: 7910412991321106546
+    second: spritesheet-resize_137
+  - first:
+      213: -7759276910505325753
+    second: spritesheet-resize_138
+  - first:
+      213: 5529709660023763057
+    second: spritesheet-resize_139
+  - first:
+      213: 3266719688135098488
+    second: spritesheet-resize_140
+  - first:
+      213: -4204051844913857967
+    second: spritesheet-resize_141
+  - first:
+      213: -7188265643980074777
+    second: spritesheet-resize_142
+  - first:
+      213: -1322500181790759690
+    second: spritesheet-resize_143
+  - first:
+      213: -1760992760353421462
+    second: spritesheet-resize_144
+  - first:
+      213: 1750243074435555686
+    second: spritesheet-resize_145
+  - first:
+      213: 326953783521497601
+    second: spritesheet-resize_146
+  - first:
+      213: 1156117397990587240
+    second: spritesheet-resize_147
+  - first:
+      213: -2459898332463869584
+    second: spritesheet-resize_148
+  - first:
+      213: -4290967722645740010
+    second: spritesheet-resize_149
+  - first:
+      213: 7335110202065221176
+    second: spritesheet-resize_150
+  - first:
+      213: 6546560145983101500
+    second: spritesheet-resize_151
+  - first:
+      213: 8115967829600997093
+    second: spritesheet-resize_152
+  - first:
+      213: -7059982212995129488
+    second: spritesheet-resize_153
+  - first:
+      213: -3717889264183877698
+    second: spritesheet-resize_154
+  - first:
+      213: 3285254406957754849
+    second: spritesheet-resize_155
+  - first:
+      213: 5782292836840965750
+    second: spritesheet-resize_156
+  - first:
+      213: 4848034754082706927
+    second: spritesheet-resize_157
+  - first:
+      213: -2964436095386358041
+    second: spritesheet-resize_158
+  - first:
+      213: 5250402483081008093
+    second: spritesheet-resize_159
+  - first:
+      213: -6414443258706919864
+    second: spritesheet-resize_160
+  - first:
+      213: 646181899424587534
+    second: spritesheet-resize_161
+  - first:
+      213: -5865503308064970798
+    second: spritesheet-resize_162
+  - first:
+      213: 949923210955893719
+    second: spritesheet-resize_163
+  - first:
+      213: -1464714345774764570
+    second: spritesheet-resize_164
+  - first:
+      213: 5806965066538531656
+    second: spritesheet-resize_165
+  - first:
+      213: 8795943825278041635
+    second: spritesheet-resize_166
+  - first:
+      213: 3558738762406527162
+    second: spritesheet-resize_167
+  - first:
+      213: 3065455617620517834
+    second: spritesheet-resize_168
+  - first:
+      213: 6171893310750307188
+    second: spritesheet-resize_169
+  - first:
+      213: -5998028611522941156
+    second: spritesheet-resize_170
+  - first:
+      213: 921003673736089969
+    second: spritesheet-resize_171
+  - first:
+      213: -259268871374818550
+    second: spritesheet-resize_172
+  - first:
+      213: -3352174162476952683
+    second: spritesheet-resize_173
+  - first:
+      213: -5657450445622237920
+    second: spritesheet-resize_174
+  - first:
+      213: 2771690269927614593
+    second: spritesheet-resize_175
+  - first:
+      213: 636128494170299917
+    second: spritesheet-resize_176
+  - first:
+      213: -4922583602092345856
+    second: spritesheet-resize_177
+  - first:
+      213: 6854264904882181076
+    second: spritesheet-resize_178
+  - first:
+      213: 1943220573239268704
+    second: spritesheet-resize_179
+  - first:
+      213: -7876764050166459764
+    second: spritesheet-resize_180
+  - first:
+      213: -7420943296755760639
+    second: spritesheet-resize_181
+  - first:
+      213: -529036100353781399
+    second: spritesheet-resize_182
+  - first:
+      213: 5223721463777422879
+    second: spritesheet-resize_183
+  - first:
+      213: 4265906485123750770
+    second: spritesheet-resize_184
+  - first:
+      213: 3110950359113439488
+    second: spritesheet-resize_185
+  - first:
+      213: 1685633982707274300
+    second: spritesheet-resize_186
+  - first:
+      213: 5611069944866143065
+    second: spritesheet-resize_187
+  - first:
+      213: -256538168634724072
+    second: spritesheet-resize_188
+  - first:
+      213: 6277440007146988639
+    second: spritesheet-resize_189
+  - first:
+      213: -6656355603744658851
+    second: spritesheet-resize_190
+  - first:
+      213: 8591256985812487107
+    second: spritesheet-resize_191
+  - first:
+      213: 1844688391028265805
+    second: spritesheet-resize_192
+  - first:
+      213: 2989139526536308788
+    second: spritesheet-resize_193
+  - first:
+      213: 883333634285314557
+    second: spritesheet-resize_194
+  - first:
+      213: -6845753921408577611
+    second: spritesheet-resize_195
+  - first:
+      213: -8477735269422716246
+    second: spritesheet-resize_196
+  - first:
+      213: -2371580190434339140
+    second: spritesheet-resize_197
+  - first:
+      213: -5484184410084530530
+    second: spritesheet-resize_198
+  - first:
+      213: -279927761329189604
+    second: building_tile_0
+  - first:
+      213: -147617822041443466
+    second: building_tile_1
+  - first:
+      213: 5720063175721872302
+    second: building_tile_2
+  - first:
+      213: 3438239862153633113
+    second: building_tile_3
+  - first:
+      213: -6394085517310927684
+    second: building_tile_4
+  - first:
+      213: -6924869912447541124
+    second: building_tile_5
+  - first:
+      213: 7540136260011094007
+    second: building_tile_6
+  - first:
+      213: 6090994080532045133
+    second: building_tile_7
+  - first:
+      213: -9106391426257810372
+    second: building_tile_8
+  - first:
+      213: 2868383350183226294
+    second: building_tile_9
+  - first:
+      213: -1762595370437815173
+    second: building_tile_10
+  - first:
+      213: 2096280322621581269
+    second: building_tile_11
+  - first:
+      213: 6105224911031774851
+    second: building_tile_12
+  - first:
+      213: -4483413203516157511
+    second: building_tile_13
+  - first:
+      213: 4259934461561221565
+    second: building_tile_14
+  - first:
+      213: -1190900421103700529
+    second: building_tile_15
+  - first:
+      213: -5580354396438298108
+    second: building_tile_16
+  - first:
+      213: 3692351619217062911
+    second: building_tile_17
+  - first:
+      213: 5408533721672706044
+    second: building_tile_18
+  - first:
+      213: 4060697058619869879
+    second: building_tile_19
+  - first:
+      213: -6448748639699026296
+    second: building_tile_20
+  - first:
+      213: -6360887336937166146
+    second: building_tile_21
+  - first:
+      213: -8003950679042167010
+    second: building_tile_22
+  - first:
+      213: 5106658351805105265
+    second: building_tile_23
+  - first:
+      213: 7382830163610321319
+    second: building_tile_24
+  - first:
+      213: -4113471416260656347
+    second: building_tile_25
+  - first:
+      213: 8861139377268550509
+    second: building_tile_26
+  - first:
+      213: 2001216804242452874
+    second: building_tile_27
+  - first:
+      213: 7382129502551073785
+    second: building_tile_28
+  - first:
+      213: 1630667011231303747
+    second: building_tile_29
+  - first:
+      213: -3410808086934368581
+    second: building_tile_30
+  - first:
+      213: 279482048076009079
+    second: building_tile_31
+  - first:
+      213: -5296736807937288048
+    second: building_tile_32
+  - first:
+      213: 4189288586753831421
+    second: building_tile_33
+  - first:
+      213: -6003065289258201387
+    second: building_tile_34
+  - first:
+      213: -3838231949447070750
+    second: building_tile_35
+  - first:
+      213: 8838187650737239926
+    second: building_tile_36
+  - first:
+      213: 5507157300789271344
+    second: building_tile_37
+  - first:
+      213: 4410914288811556065
+    second: building_tile_38
+  - first:
+      213: 4507662263837447774
+    second: building_tile_39
+  - first:
+      213: 1623312987642251653
+    second: building_tile_40
+  - first:
+      213: -2528771025624974950
+    second: building_tile_41
+  - first:
+      213: 6649008024100611600
+    second: building_tile_42
+  - first:
+      213: 3373277165683054234
+    second: building_tile_43
+  - first:
+      213: 5204116924268586506
+    second: building_tile_44
+  - first:
+      213: 9149627738144144147
+    second: building_tile_45
+  - first:
+      213: -153176032925708072
+    second: building_tile_46
+  - first:
+      213: 5012908806147104914
+    second: building_tile_47
+  - first:
+      213: 3725611860418541910
+    second: building_tile_48
+  - first:
+      213: -4670436001387311412
+    second: building_tile_49
+  - first:
+      213: -429496673174808688
+    second: building_tile_50
+  - first:
+      213: 5801097535143154756
+    second: building_tile_51
+  - first:
+      213: 2230452451723921451
+    second: building_tile_52
+  - first:
+      213: -4852846993787475644
+    second: building_tile_53
+  - first:
+      213: -1697991814814868465
+    second: building_tile_54
+  - first:
+      213: -6776074330064379756
+    second: building_tile_55
+  - first:
+      213: 1520093784906484562
+    second: building_tile_56
+  - first:
+      213: 5438419950345788698
+    second: building_tile_57
+  - first:
+      213: 3109824782262682016
+    second: building_tile_58
+  - first:
+      213: 6488616761629366198
+    second: building_tile_59
+  - first:
+      213: 6311675605705792222
+    second: building_tile_60
+  - first:
+      213: -3331023262064302607
+    second: building_tile_61
+  - first:
+      213: 337150044738833816
+    second: building_tile_62
+  - first:
+      213: -8916447651398668644
+    second: building_tile_63
+  - first:
+      213: -7866983968248041742
+    second: building_tile_64
+  - first:
+      213: 5709634849632396218
+    second: building_tile_65
+  - first:
+      213: 617919359551705165
+    second: building_tile_66
+  - first:
+      213: 6456266584094215302
+    second: building_tile_67
+  - first:
+      213: 1645636557194912408
+    second: building_tile_68
+  - first:
+      213: -6783266146703872058
+    second: building_tile_69
+  - first:
+      213: -2122498377722055101
+    second: building_tile_70
+  - first:
+      213: 4545166452822285764
+    second: building_tile_71
+  - first:
+      213: 6498858194604597405
+    second: building_tile_72
+  - first:
+      213: -8026482603385855665
+    second: building_tile_73
+  - first:
+      213: 9073264585991809784
+    second: building_tile_74
+  - first:
+      213: -8404433841055592004
+    second: building_tile_75
+  - first:
+      213: 1998048962675600277
+    second: building_tile_76
+  - first:
+      213: 1055926213800009512
+    second: building_tile_77
+  - first:
+      213: 8319576994897452830
+    second: building_tile_78
+  - first:
+      213: -2926319639388103104
+    second: building_tile_79
+  - first:
+      213: 2570538360206126244
+    second: building_tile_80
+  - first:
+      213: -6846447982130973235
+    second: building_tile_81
+  - first:
+      213: 1069025887466901628
+    second: building_tile_82
+  - first:
+      213: -5334348161489571365
+    second: building_tile_83
+  - first:
+      213: -7824828714212572960
+    second: building_tile_84
+  - first:
+      213: -7933126048699411690
+    second: building_tile_85
+  - first:
+      213: -2340888463632273498
+    second: building_tile_86
+  - first:
+      213: -4454971557013289664
+    second: building_tile_87
+  - first:
+      213: -3645329401919127100
+    second: building_tile_88
+  - first:
+      213: 4684926038845724171
+    second: building_tile_89
+  - first:
+      213: -374334140055134691
+    second: building_tile_90
+  - first:
+      213: 8849204129456759447
+    second: building_tile_91
+  - first:
+      213: -5191692091339418098
+    second: building_tile_92
+  - first:
+      213: 230132250567551782
+    second: building_tile_93
+  - first:
+      213: 2053341740456199596
+    second: building_tile_94
+  - first:
+      213: 5595164551261843056
+    second: building_tile_95
+  - first:
+      213: -8084750726951523625
+    second: building_tile_96
+  - first:
+      213: 5943702235293963367
+    second: building_tile_97
+  - first:
+      213: -1433671054379207499
+    second: building_tile_98
+  - first:
+      213: -7245439480677000864
+    second: building_tile_99
+  - first:
+      213: -6161359040818376791
+    second: building_tile_100
+  - first:
+      213: -6509706150823909613
+    second: building_tile_101
+  - first:
+      213: 2528563897602649001
+    second: building_tile_102
+  - first:
+      213: 7915943822839055398
+    second: building_tile_103
+  - first:
+      213: 7040881231958398187
+    second: building_tile_104
+  - first:
+      213: 7303634340141335011
+    second: building_tile_105
+  - first:
+      213: 5824714992843372755
+    second: building_tile_106
+  - first:
+      213: 6290689591559383715
+    second: building_tile_107
+  - first:
+      213: 870703922932365413
+    second: building_tile_108
+  - first:
+      213: -3456899232824368850
+    second: building_tile_109
+  - first:
+      213: -2410167760911514225
+    second: building_tile_110
+  - first:
+      213: -8784524893347701751
+    second: building_tile_111
+  - first:
+      213: 2856247872765219377
+    second: building_tile_112
+  - first:
+      213: 943041385003288463
+    second: building_tile_113
+  - first:
+      213: 8706655514339670018
+    second: building_tile_114
+  - first:
+      213: 7668464020183515294
+    second: building_tile_115
+  - first:
+      213: -7224975196237965349
+    second: building_tile_116
+  - first:
+      213: -4570287562957419665
+    second: building_tile_117
+  - first:
+      213: -5187122939534448939
+    second: building_tile_118
+  - first:
+      213: 6689674997159008827
+    second: building_tile_119
+  - first:
+      213: 7583133815511705367
+    second: building_tile_120
+  - first:
+      213: 6979476111869730935
+    second: building_tile_121
+  - first:
+      213: -3580214591931663339
+    second: building_tile_122
+  - first:
+      213: 9068491892072032386
+    second: building_tile_123
+  - first:
+      213: -5708452039393359647
+    second: building_tile_124
+  - first:
+      213: -2417200457228319286
+    second: building_tile_125
+  - first:
+      213: 7158881859734152478
+    second: building_tile_126
+  - first:
+      213: 6978037057860325114
+    second: building_tile_127
+  - first:
+      213: 6901608658497796908
+    second: building_tile_128
+  - first:
+      213: -4608378788105654813
+    second: building_tile_129
+  - first:
+      213: 3705914474487583381
+    second: building_tile_130
+  - first:
+      213: 1223599334853777365
+    second: building_tile_131
+  - first:
+      213: -8020502342519655393
+    second: building_tile_132
+  - first:
+      213: -6796629062538760096
+    second: building_tile_133
+  - first:
+      213: -9220953329263046550
+    second: building_tile_134
+  - first:
+      213: -1021783829977149083
+    second: building_tile_135
+  - first:
+      213: -8770659044957186996
+    second: building_tile_136
+  - first:
+      213: -2780452300101066260
+    second: building_tile_137
+  - first:
+      213: 8933850440560108297
+    second: building_tile_138
+  - first:
+      213: -6794249389089241127
+    second: building_tile_139
+  - first:
+      213: -9069472713014260125
+    second: building_tile_140
+  - first:
+      213: -686732947121705118
+    second: building_tile_141
+  - first:
+      213: 3269493890358290889
+    second: building_tile_142
+  - first:
+      213: 2294455009129951554
+    second: building_tile_143
+  - first:
+      213: -6652168334303404520
+    second: building_tile_144
+  - first:
+      213: 5578514649524849084
+    second: building_tile_145
+  - first:
+      213: -1759064734581858859
+    second: building_tile_146
+  - first:
+      213: 7686132693897958065
+    second: building_tile_147
+  - first:
+      213: 7684122178354474207
+    second: building_tile_148
+  - first:
+      213: -7498425506001770225
+    second: building_tile_149
+  - first:
+      213: -5237879046019236433
+    second: building_tile_150
+  - first:
+      213: 1998780474111227618
+    second: building_tile_151
+  - first:
+      213: 7686905953540163662
+    second: building_tile_152
+  - first:
+      213: 189540204600186619
+    second: building_tile_153
+  - first:
+      213: 4783840121564775884
+    second: building_tile_154
+  - first:
+      213: -6743746756679231215
+    second: building_tile_155
+  - first:
+      213: -4792109773702785242
+    second: building_tile_156
+  - first:
+      213: 5498347752477077402
+    second: building_tile_157
+  - first:
+      213: 604596606914291672
+    second: building_tile_158
+  - first:
+      213: -266738032811147676
+    second: building_tile_159
+  - first:
+      213: -1811427568508220933
+    second: building_tile_160
+  - first:
+      213: -6960651971887351959
+    second: building_tile_161
+  - first:
+      213: 5173234479849202486
+    second: building_tile_162
+  - first:
+      213: 8729879242045105825
+    second: building_tile_163
+  - first:
+      213: 6448820480930314040
+    second: building_tile_164
+  - first:
+      213: -3095773465369230373
+    second: building_tile_165
+  - first:
+      213: 96522690109230748
+    second: building_tile_166
+  - first:
+      213: 288107613264871643
+    second: building_tile_167
+  - first:
+      213: -4149843001486011110
+    second: building_tile_168
+  - first:
+      213: 134384850464136136
+    second: building_tile_169
+  - first:
+      213: -8666016250434665656
+    second: building_tile_170
+  - first:
+      213: 4065760316328985056
+    second: building_tile_171
+  - first:
+      213: -6475105958128577569
+    second: building_tile_172
+  - first:
+      213: 8217110238110853943
+    second: building_tile_173
+  - first:
+      213: 425228086757343491
+    second: building_tile_174
+  - first:
+      213: 5870945444632312504
+    second: building_tile_175
+  - first:
+      213: -2171420381667887869
+    second: building_tile_176
+  - first:
+      213: -3705442469224264700
+    second: building_tile_177
+  - first:
+      213: -2446495269676528879
+    second: building_tile_178
+  - first:
+      213: 8565740234571855646
+    second: building_tile_179
+  - first:
+      213: -5766762107778108901
+    second: building_tile_180
+  - first:
+      213: -3145058888534161497
+    second: building_tile_181
+  - first:
+      213: 6517672688134159748
+    second: building_tile_182
+  - first:
+      213: 1206997336656244496
+    second: building_tile_183
+  - first:
+      213: -3307964891842684132
+    second: building_tile_184
+  - first:
+      213: 1667721448202222314
+    second: building_tile_185
+  - first:
+      213: -5010772780230762125
+    second: building_tile_186
+  - first:
+      213: 5745179594769293871
+    second: building_tile_187
+  - first:
+      213: 6711048630992362350
+    second: building_tile_188
+  - first:
+      213: -8883459690770814025
+    second: building_tile_189
+  - first:
+      213: 1255281822928108632
+    second: building_tile_190
+  - first:
+      213: 5990360794007759587
+    second: building_tile_191
+  - first:
+      213: -4216239948040081466
+    second: building_tile_192
+  - first:
+      213: 3684300086613889165
+    second: building_tile_193
+  - first:
+      213: -3020879383958973761
+    second: building_tile_194
+  - first:
+      213: -4780211875773290970
+    second: building_tile_195
+  - first:
+      213: -4910451538400808942
+    second: building_tile_196
+  - first:
+      213: 6357088426316999438
+    second: building_tile_197
+  - first:
+      213: -6384739267061846273
+    second: building_tile_198
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: building_tile_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d04372f2f7d1cf0800000000000000
+      internalID: -279927761329189604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673f3ba7f5e83fdf0800000000000000
+      internalID: -147617822041443466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabe1b1f62fb16f40800000000000000
+      internalID: 5720063175721872302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d514420f417bf20800000000000000
+      internalID: 3438239862153633113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc563d6915a347a0800000000000000
+      internalID: -6394085517310927684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7026c0118be5ef90800000000000000
+      internalID: -6924869912447541124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe008aaf1f3a860800000000000000
+      internalID: 7540136260011094007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d9e1348de878450800000000000000
+      internalID: 6090994080532045133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c8d3cde399f9180800000000000000
+      internalID: -9106391426257810372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe05ba57b8ec720800000000000000
+      internalID: 2868383350183226294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b745e4669d00a87e0800000000000000
+      internalID: -1762595370437815173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7208bc8db771d10800000000000000
+      internalID: 2096280322621581269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e2aefa5bd1ab450800000000000000
+      internalID: 6105224911031774851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b19f1f0277b7c1c0800000000000000
+      internalID: -4483413203516157511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db13dcb92d35e1b30800000000000000
+      internalID: 4259934461561221565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5304d6062197fe0800000000000000
+      internalID: -1190900421103700529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402818f0e399e82b0800000000000000
+      internalID: -5580354396438298108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb75491c3edd3330800000000000000
+      internalID: 3692351619217062911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7e504a3c8fe0b40800000000000000
+      internalID: 5408533721672706044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bac287d57e7a5830800000000000000
+      internalID: 4060697058619869879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eb4f477417186a0800000000000000
+      internalID: -6448748639699026296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba64912ba699b7a0800000000000000
+      internalID: -6360887336937166146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe1ff93414ce090800000000000000
+      internalID: -8003950679042167010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17400a8f6be7ed640800000000000000
+      internalID: 5106658351805105265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1480bfae4157660800000000000000
+      internalID: 7382830163610321319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5238f008a830ae6c0800000000000000
+      internalID: -4113471416260656347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b6157b05719fa70800000000000000
+      internalID: 8861139377268550509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81f96f9410c5cb10800000000000000
+      internalID: 2001216804242452874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3ec7d9ba7927660800000000000000
+      internalID: 7382129502551073785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348c36fc10b41a610800000000000000
+      internalID: 1630667011231303747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe4f3dbd106aa0d0800000000000000
+      internalID: -3410808086934368581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e4ba4217be0e300800000000000000
+      internalID: 279482048076009079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098592ebfe53e76b0800000000000000
+      internalID: -5296736807937288048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df17f0b16c7532a30800000000000000
+      internalID: 4189288586753831421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de894ecce3d0bca0800000000000000
+      internalID: -6003065289258201387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebf6a7b06cdbbac0800000000000000
+      internalID: -3838231949447070750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677ff6477dc87aa70800000000000000
+      internalID: 8838187650737239926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b5ebb036a5d6c40800000000000000
+      internalID: 5507157300789271344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecbe47fc27b63d30800000000000000
+      internalID: 4410914288811556065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56d67342fe6e8e30800000000000000
+      internalID: 4507662263837447774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589c1b3cf8a278610800000000000000
+      internalID: 1623312987642251653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99b253762008ecd0800000000000000
+      internalID: -2528771025624974950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0162d39e195064c50800000000000000
+      internalID: 6649008024100611600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a969975b5b940de20800000000000000
+      internalID: 3373277165683054234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a0a025ccb83840800000000000000
+      internalID: 5204116924268586506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b742773f10afe70800000000000000
+      internalID: 9149627738144144147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d01c59a53fcfddf0800000000000000
+      internalID: -153176032925708072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29063d9effd619540800000000000000
+      internalID: 5012908806147104914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659ba377f3804b330800000000000000
+      internalID: 3725611860418541910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce0d17a3374f2fb0800000000000000
+      internalID: -4670436001387311412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09714332d0f1a0af0800000000000000
+      internalID: -429496673174808688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4441a910973a18050800000000000000
+      internalID: 5801097535143154756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b284769ffa824fe10800000000000000
+      internalID: 2230452451723921451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449a9f1ee5937acb0800000000000000
+      internalID: -4852846993787475644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c5076d0758f68e0800000000000000
+      internalID: -1697991814814868465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490aed84c4c86f1a0800000000000000
+      internalID: -6776074330064379756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b41aa5e35781510800000000000000
+      internalID: 1520093784906484562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d12cf7126297b40800000000000000
+      internalID: 5438419950345788698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a14974b921582b20800000000000000
+      internalID: 3109824782262682016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7509801923c0a50800000000000000
+      internalID: 6488616761629366198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda979fc583979750800000000000000
+      internalID: 6311675605705792222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5281eddf3d5c1d0800000000000000
+      internalID: -3331023262064302607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d4aaced2ccda400800000000000000
+      internalID: 337150044738833816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e24083a1a624480800000000000000
+      internalID: -8916447651398668644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fee1ee03cbd2d290800000000000000
+      internalID: -7866983968248041742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_65
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3a78115a2bc3f40800000000000000
+      internalID: 5709634849632396218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d409ae5326a439800800000000000000
+      internalID: 617919359551705165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c09206044499950800000000000000
+      internalID: 6456266584094215302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892eff4dab976d610800000000000000
+      internalID: 1645636557194912408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf68ccf06ffcd1a0800000000000000
+      internalID: -6783266146703872058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346b88f88fe5b82e0800000000000000
+      internalID: -2122498377722055101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd9e79becca31f30800000000000000
+      internalID: 4545166452822285764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d902b077815903a50800000000000000
+      internalID: 6498858194604597405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41655d29943c9090800000000000000
+      internalID: -8026482603385855665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa6c299116baed70800000000000000
+      internalID: 9073264585991809784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_75
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb11c9d33f37d5b80800000000000000
+      internalID: -8404433841055592004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bed1802fe7abb10800000000000000
+      internalID: 1998048962675600277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_77
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f92920c4767ae00800000000000000
+      internalID: 1055926213800009512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fdf56a233157370800000000000000
+      internalID: 8319576994897452830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ed503dacf9367d0800000000000000
+      internalID: -2926319639388103104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace991f4036ca320800000000000000
+      internalID: 2570538360206126244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5b4e395d78cf0a0800000000000000
+      internalID: -6846447982130973235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7059267161f5de00800000000000000
+      internalID: 1069025887466901628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1f7261c9698f5b0800000000000000
+      internalID: -5334348161489571365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0451dfdbf986390800000000000000
+      internalID: -7824828714212572960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6139fd4e3efd7e190800000000000000
+      internalID: -7933126048699411690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af636a485e738fd0800000000000000
+      internalID: -2340888463632273498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04501cbe8f2cc22c0800000000000000
+      internalID: -4454971557013289664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1c2550930396dc0800000000000000
+      internalID: -3645329401919127100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_89
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0690681963340140800000000000000
+      internalID: 4684926038845724171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e56ba35191ecaf0800000000000000
+      internalID: -374334140055134691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_91
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792a0394540beca70800000000000000
+      internalID: 8849204129456759447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e065288bc8763f7b0800000000000000
+      internalID: -5191692091339418098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_93
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ba0760018913300800000000000000
+      internalID: 230132250567551782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5cf521f6fee7c10800000000000000
+      internalID: 2053341740456199596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ee1d1d38406ad40800000000000000
+      internalID: 5595164551261843056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da29767c023dcf80800000000000000
+      internalID: -8084750726951523625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764546121b54c7250800000000000000
+      internalID: 5943702235293963367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b7fe95c39a1ce0800000000000000
+      internalID: -1433671054379207499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06918a82e27037b90800000000000000
+      internalID: -7245439480677000864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_100
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af016eb8947e7aa0800000000000000
+      internalID: -6161359040818376791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31727f7eeb0e8a5a0800000000000000
+      internalID: -6509706150823909613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_102
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abab7cc773471320800000000000000
+      internalID: 2528563897602649001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624054667f41bdd60800000000000000
+      internalID: 7915943822839055398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_104
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be458902d2c36b160800000000000000
+      internalID: 7040881231958398187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1087d6cb8bb5560800000000000000
+      internalID: 7303634340141335011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d83252ec6b85d050800000000000000
+      internalID: 5824714992843372755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae421aad40d4750800000000000000
+      internalID: 6290689591559383715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5683ceeca9c551c00800000000000000
+      internalID: 870703922932365413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_109
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21ee239670a600d0800000000000000
+      internalID: -3456899232824368850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8545c9e03d5d8ed0800000000000000
+      internalID: -2410167760911514225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_111
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1f63e629171680800000000000000
+      internalID: -8784524893347701751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_112
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132d2a6ae4e63a720800000000000000
+      internalID: 2856247872765219377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f870d99a42b561d00800000000000000
+      internalID: 943041385003288463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20879e97f0144d870800000000000000
+      internalID: 8706655514339670018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9007e7a56bdb6a60800000000000000
+      internalID: 7668464020183515294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd75a3da65bbbbb90800000000000000
+      internalID: -7224975196237965349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b89880da31390c0800000000000000
+      internalID: -4570287562957419665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6e4c64b23a308b0800000000000000
+      internalID: -5187122939534448939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a997c67ff76dc50800000000000000
+      internalID: 6689674997159008827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_120
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717e3dd2704bc3960800000000000000
+      internalID: 7583133815511705367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_121
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770e15e7b841cd060800000000000000
+      internalID: 6979476111869730935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c3e342cc5805ec0800000000000000
+      internalID: -3580214591931663339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a6733451c9dd70800000000000000
+      internalID: 9068491892072032386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8ca966d1187c0b0800000000000000
+      internalID: -5708452039393359647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_125
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac58ef3bdf0647ed0800000000000000
+      internalID: -2417200457228319286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15217e3f15795360800000000000000
+      internalID: 7158881859734152478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_127
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afec64f9bb7f6d060800000000000000
+      internalID: 6978037057860325114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b7584328077cf50800000000000000
+      internalID: 6901608658497796908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed648098efbb00c0800000000000000
+      internalID: -4608378788105654813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5929fcb649d0e6330800000000000000
+      internalID: 3705914474487583381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_131
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d71d55bc191bf010800000000000000
+      internalID: 1223599334853777365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_132
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f147de92d9371b090800000000000000
+      internalID: -8020502342519655393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_133
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060f741b0e58da1a0800000000000000
+      internalID: -6796629062538760096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_134
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6012de3dc7980080800000000000000
+      internalID: -9220953329263046550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_135
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56159f03505e1d1f0800000000000000
+      internalID: -1021783829977149083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44924b411c584680800000000000000
+      internalID: -8770659044957186996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1ee815d59d969d0800000000000000
+      internalID: -2780452300101066260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036d0264a96bfb70800000000000000
+      internalID: 8933850440560108297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_139
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7cbe79d2af5b1a0800000000000000
+      internalID: -6794249389089241127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ecfa0ae92c22280800000000000000
+      internalID: -9069472713014260125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_141
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fe047e50c3876f0800000000000000
+      internalID: -686732947121705118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_142
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9ad1aee539f5d20800000000000000
+      internalID: 3269493890358290889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2417e4c9caa87df10800000000000000
+      internalID: 2294455009129951554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_144
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e5eb70520cea3a0800000000000000
+      internalID: -6652168334303404520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9cd3b748dda6d40800000000000000
+      internalID: 5578514649524849084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_146
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddd45e91fb8697e0800000000000000
+      internalID: -1759064734581858859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_147
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2dd4456f0aaaa60800000000000000
+      internalID: 7686132693897958065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_148
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdce483b86c73aa60800000000000000
+      internalID: 7684122178354474207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_149
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09290c0bbd30f790800000000000000
+      internalID: -7498425506001770225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_150
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadbf8552c05f47b0800000000000000
+      internalID: -5237879046019236433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_151
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6f26f40481dbb10800000000000000
+      internalID: 1998780474111227618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c89edc306daa60800000000000000
+      internalID: 7686905953540163662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_153
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf659d5dfc161a200800000000000000
+      internalID: 189540204600186619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc54124ae3d936240800000000000000
+      internalID: 4783840121564775884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11911f00e066962a0800000000000000
+      internalID: -6743746756679231215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62794cdec810f7db0800000000000000
+      internalID: -4792109773702785242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_157
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fa6fd362e0e4c40800000000000000
+      internalID: 5498347752477077402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_158
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d768832965f36800800000000000000
+      internalID: 604596606914291672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_159
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e74322c2b5c4cf0800000000000000
+      internalID: -266738032811147676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_160
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9c7ba49348cd6e0800000000000000
+      internalID: -1811427568508220933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967388229ebc66f90800000000000000
+      internalID: -6960651971887351959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e637b9550bc740800000000000000
+      internalID: 5173234479849202486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6a722fae2c62970800000000000000
+      internalID: 8729879242045105825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_164
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8377d126f00de7950800000000000000
+      internalID: 6448820480930314040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_165
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd346937f6a9905d0800000000000000
+      internalID: -3095773465369230373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_166
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ec9b010eae65100800000000000000
+      internalID: 96522690109230748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_167
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd00db909509ff300800000000000000
+      internalID: 288107613264871643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_168
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1519c6e6cbc866c0800000000000000
+      internalID: -4149843001486011110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbdb1b3f4e6dd100800000000000000
+      internalID: 134384850464136136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_170
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843441f72202cb780800000000000000
+      internalID: -8666016250434665656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_171
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e14ba4677b7c6830800000000000000
+      internalID: 4065760316328985056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_172
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd31bba007dc326a0800000000000000
+      internalID: -6475105958128577569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_173
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ba2d6b93a090270800000000000000
+      internalID: 8217110238110853943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301c0b321b6b6e500800000000000000
+      internalID: 425228086757343491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bab10bb6c9c97150800000000000000
+      internalID: 5870945444632312504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30574a4eaa09dd1e0800000000000000
+      internalID: -2171420381667887869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_177
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ccd3ed4bf939cc0800000000000000
+      internalID: -3705442469224264700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_178
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bc14aa38d4c0ed0800000000000000
+      internalID: -2446495269676528879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_179
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e173def2c5f9fd670800000000000000
+      internalID: 8565740234571855646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_180
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f3b5aa6858ffa0800000000000000
+      internalID: -5766762107778108901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_181
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a78c37aa918a54d0800000000000000
+      internalID: -3145058888534161497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d708a17cc637a50800000000000000
+      internalID: 6517672688134159748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fec38cead10c010800000000000000
+      internalID: 1206997336656244496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_184
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bd04c057fb712d0800000000000000
+      internalID: -3307964891842684132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_185
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeab46832dfe42710800000000000000
+      internalID: 1667721448202222314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371262064b8267ab0800000000000000
+      internalID: -5010772780230762125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_187
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22eb05f66afabf40800000000000000
+      internalID: 5745179594769293871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_188
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bdba85c2f622d50800000000000000
+      internalID: 6711048630992362350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_189
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbaa135a7c97b480800000000000000
+      internalID: -8883459690770814025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_190
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c72acca28ab6110800000000000000
+      internalID: 1255281822928108632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea62436769022350800000000000000
+      internalID: 5990360794007759587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_192
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf62491b18ec75c0800000000000000
+      internalID: -4216239948040081466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_193
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80df849863412330800000000000000
+      internalID: 3684300086613889165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_194
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb213d1a43ea316d0800000000000000
+      internalID: -3020879383958973761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_195
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626ed6920a649adb0800000000000000
+      internalID: -4780211875773290970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_196
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21079dea7529adbb0800000000000000
+      internalID: -4910451538400808942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b2f501e3ae83850800000000000000
+      internalID: 6357088426316999438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building_tile_198
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6a43e679d467a0800000000000000
+      internalID: -6384739267061846273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
