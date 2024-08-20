@@ -8,42 +8,29 @@ public class Interactable : MonoBehaviour
 {
     public bool isPickupItem = false; // To differentiate between a pickup item and a regular interactable
     public bool requiresItemPickup = false;
-    public Image interactionImage;
-
-    private int collectedGasolin = 0;
-
-    private void Start()
-    {
-        if (interactionImage != null)
-        {
-            interactionImage.gameObject.SetActive(false);  // image set to hidden initially
-        }
-    }
+    public AudioSource pickUpSoundEffect;
+    public AudioSource fillGasolineSoundEffect;
 
     public void Interact(PlayerMovement player)
     {
         if (isPickupItem)
-        { 
+        {
             // Item pickup logic
             if (player.hasPickedUpItem)
             {
-                Debug.Log("Can't pick up multiple item " + gameObject.name);
+                Debug.Log("Can't pick up multiple items " + gameObject.name);
             }
             else
             {
-                player.hasPickedUpItem = true;
-                Destroy(gameObject);
+                PlaySoundAndDestroy(player);
             }
         }
         else if (requiresItemPickup)
         {
             if (player.hasPickedUpItem)
             {
-                collectedGasolin += 1;
-                if(collectedGasolin >= 3)
-                {
-                    SceneManager.LoadSceneAsync(3);
-                }
+                fillGasolineSoundEffect.Play();
+                ProgressTracking.Instance.CollectGasoline();
                 player.hasPickedUpItem = false;
             }
         }
@@ -51,5 +38,19 @@ public class Interactable : MonoBehaviour
         {
             Debug.Log("Interacted with " + gameObject.name);
         }
+    }
+
+    private void PlaySoundAndDestroy(PlayerMovement player)
+    {
+        if (pickUpSoundEffect != null)
+        {
+            // Detach the AudioSource from the GameObject
+            pickUpSoundEffect.transform.SetParent(null);
+            pickUpSoundEffect.Play();
+            Destroy(pickUpSoundEffect.gameObject, pickUpSoundEffect.clip.length);
+        }
+
+        player.hasPickedUpItem = true;
+        Destroy(gameObject);
     }
 }

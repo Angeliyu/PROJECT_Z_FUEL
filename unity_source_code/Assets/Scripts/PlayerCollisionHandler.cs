@@ -11,7 +11,7 @@ public class PlayerCollisionHandler : MonoBehaviour
         if (collision.gameObject.CompareTag("Zombie"))
         {
             // Load the Game Over scene
-            SceneManager.LoadSceneAsync(2);
+            SceneManager.LoadSceneAsync(3);
         }
     }
 }
